@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f6fab2c34d2deff448626efd8189b526
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Pencil Child
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 73076b4f8d8b30d4dbee15921ccb7056, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
